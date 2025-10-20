@@ -8,7 +8,7 @@
                     "title": "Initial release of PopulaireCoreGL.",
                     "description": "This version introduces the foundational features of PopulaireCoreGL, including basic rendering capabilities and core functionalities.",
                     "date": "2024-06-15",
-                    "file_url": "https://github.com/OpenDesk-Team/populairecoregl/releases/download/0.0.1/populairecoregl-0.0.1.zip"
+                    "file_url": "https://github.com/OpenDesk-Team/populairecoregl/releases/download/0.0.1/populairecoregl-0.0.1.jar"
                 }
             }
         },
@@ -20,7 +20,7 @@
                     "title": "Initial release of OpenDeskOS.",
                     "description": "This version introduces the foundational features of OpenDeskOS, including basic rendering capabilities and core functionalities.",
                     "date": "2024-06-15",
-                    "file_url": "https://github.com/OpenDesk-Team/opendeskos/releases/download/0.0.1/opendeskos-0.0.1.zip"
+                    "file_url": "https://github.com/OpenDesk-Team/opendeskos/releases/download/0.0.1/opendeskos-0.0.1.jar"
                 }
             }
         }
