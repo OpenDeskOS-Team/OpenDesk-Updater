@@ -1,0 +1,26 @@
+{
+    "projets": {
+        "ppcore": {
+            "repository": "https://github.com/OpenDesk-Team/populairecoregl",
+            "current_version": "0.0.1",
+            "version_history": {
+                "0.0.1": {
+                    "title": "Initial release of PopulaireCoreGL.",
+                    "description": "This version introduces the foundational features of PopulaireCoreGL, including basic rendering capabilities and core functionalities.",
+                    "date": "2024-06-15"
+                }
+            }
+        },
+        "opendeskos": {
+            "repository": "https://github.com/OpenDesk-Team/populairecoregl",
+            "current_version": "0.0.1",
+            "version_history": {
+                "0.0.1": {
+                    "title": "Initial release of OpenDeskOS.",
+                    "description": "This version introduces the foundational features of OpenDeskOS, including basic rendering capabilities and core functionalities.",
+                    "date": "2024-06-15"
+                }
+            }
+        }
+    }
+}
