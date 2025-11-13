@@ -95,7 +95,7 @@ Le fichier `update_index.json` contient les informations suivantes :
 
 ## 📜 Licence
 
-Ce dépôt et le format `update_index.json` sont distribués sous licence **MIT**.  
+Ce dépôt et le format `update_index.json` sont distribués sous licence **All Right Reserved**.  
 © 2025 OpenDesk Team. Tous droits réservés.
 
 ---
