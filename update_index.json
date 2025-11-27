@@ -12,9 +12,9 @@
                 },
                 "0.0.2": {
                     "title": "PopulaireCoreGL Updates",
-                    "description": "This version is just a small test update with only one change : show the gpu driver's version",
+                    "description": "This version fix the update system +  one change : show the gpu driver's version in the bios",
                     "date": "2025-11-27",
-                    "file_url": "https://github.com/OpenDeskOS-Team/PopulaireCoreGL/releases/download/0.0.1/PopulaireCoreGL-0.0.1.jar"
+                    "file_url": "https://github.com/OpenDeskOS-Team/PopulaireCoreGL/releases/download/0.0.2/PopulaireCoreGL-0.0.2.jar"
                 }
             }
         },
