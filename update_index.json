@@ -2,7 +2,7 @@
     "projets": {
         "ppcore": {
             "repository": "https://github.com/OpenDesk-Team/populairecoregl",
-            "current_version": "0.0.2",
+            "current_version": "0.0.3",
             "version_history": {
                 "0.0.1": {
                     "title": "Initial release of PopulaireCoreGL.",
@@ -15,6 +15,12 @@
                     "description": "This version fix the update system +  one change : show the gpu driver's version in the bios",
                     "date": "2025-11-27",
                     "file_url": "https://github.com/OpenDeskOS-Team/PopulaireCoreGL/releases/download/0.0.2/PopulaireCoreGL-0.0.2.jar"
+                },
+                "0.0.3": {
+                    "title": "PopulaireCoreGL Updates",
+                    "description": "This version have nicer workspace for devs (cleaner) / Fully in English / Advanced mode works",
+                    "date": "2025-11-27",
+                    "file_url": "https://github.com/OpenDeskOS-Team/PopulaireCoreGL/releases/download/0.0.3/PopulaireCoreGL-0.0.3.jar"
                 }
             }
         },
