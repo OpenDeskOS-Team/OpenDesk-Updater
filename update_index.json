@@ -2,18 +2,18 @@
     "projets": {
         "ppcore": {
             "repository": "https://github.com/OpenDesk-Team/populairecoregl",
-            "current_version": "0.0.1",
+            "current_version": "0.0.2",
             "version_history": {
-                "0.0.2": {
-                    "title": "PopulaireCoreGL Updates",
-                    "description": "This version is just a small test update with only one change : show the gpu driver's version",
-                    "date": "2025-11-27",
-                    "file_url": "https://github.com/OpenDeskOS-Team/PopulaireCoreGL/releases/download/0.0.1/PopulaireCoreGL-0.0.1.jar"
-                },
                 "0.0.1": {
                     "title": "Initial release of PopulaireCoreGL.",
                     "description": "This version introduces the foundational features of PopulaireCoreGL, including basic rendering capabilities and core functionalities.",
                     "date": "2024-06-15",
+                    "file_url": "https://github.com/OpenDeskOS-Team/PopulaireCoreGL/releases/download/0.0.1/PopulaireCoreGL-0.0.1.jar"
+                },
+                "0.0.2": {
+                    "title": "PopulaireCoreGL Updates",
+                    "description": "This version is just a small test update with only one change : show the gpu driver's version",
+                    "date": "2025-11-27",
                     "file_url": "https://github.com/OpenDeskOS-Team/PopulaireCoreGL/releases/download/0.0.1/PopulaireCoreGL-0.0.1.jar"
                 }
             }
